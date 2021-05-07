@@ -1,0 +1,21 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.error{
+    background-color: #f44336;
+}
+
+.success{
+    background-color: #2bbbad;
+}
+
+.wrap-start-loader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+}

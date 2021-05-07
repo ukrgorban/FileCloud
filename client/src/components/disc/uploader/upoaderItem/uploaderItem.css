@@ -1,0 +1,21 @@
+.uploader-item-wrap{
+    padding: 20px 30px;
+}
+
+.upload-header{
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 7px;
+}
+
+.close {
+    height: 22px;
+    overflow: auto;
+    cursor: pointer;
+}
+
+.progress{
+    margin: 0;
+}

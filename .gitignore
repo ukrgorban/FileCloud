@@ -1,0 +1,8 @@
+client/node_modules/
+client/package-lock.json
+client/.git/
+server/node_modules/
+server/package-lock.json
+server/.git/
+server/files/
+.idea/

@@ -1,0 +1,49 @@
+td.name{
+    display: flex;
+    align-items: center;
+}
+
+.name span{
+    margin-left: 5px;
+}
+
+.btn-panel{
+    margin: 20px 0;
+    display: flex;
+}
+
+.btn-panel button{
+    margin-right: 20px;
+}
+
+.btn-panel .back{
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.drag-zone{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: dashed 3px #706F6F;
+    font-size: 30px;
+    color: #706f6f;
+}
+
+.drag-zone .darg-zone-wrap{
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.drag-zone.active{
+    border: dashed 3px #6d4c41;
+    color: #6d4c41;
+}
+
+.sort{
+    margin-top: 40px;
+}

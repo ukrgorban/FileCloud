@@ -1,0 +1,16 @@
+.nav-wrapper{
+    padding: 0 30px;
+}
+
+.logout{
+   cursor: pointer; 
+}
+
+.brand-logo a{
+    display: flex;
+    align-items: center;
+}
+
+.brand-logo span{
+    margin-right: 7px;
+}
